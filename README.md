@@ -12,6 +12,9 @@ Google Home app has been used to create a real home like experience and for enab
 We can use Blynk/Sinric Pro APIs to enable the google assistant integration with google home. 
 I have used IFTTT to create command applets that allows us to integrate the button pressed on either Google Home app or Blynk Application to trigger an action on the hardware.
 
+![image](https://github.com/gagandangwal17/ESP8266-home-automation/assets/76488674/625b13b1-ae80-4796-b386-5d64680c592e)
+
+
 ![image](https://github.com/gagandangwal17/ESP8266-home-automation/assets/76488674/d2acd616-2f37-4462-9894-0694382b71ab)
 
 
